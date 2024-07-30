@@ -5,6 +5,7 @@ ruby "3.1.2"
 gem "devise"
 gem "haml"
 gem "simple_form"
+gem 'administrate', '~> 0.18.0'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.4"
@@ -70,4 +71,5 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
+  gem "webdrivers"
 end
