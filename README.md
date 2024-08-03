@@ -64,3 +64,4 @@ views > project > index.html.haml and new.html.haml
 go back t0 db > migrate after migrate 
 
 
+# TEAMS-APP
